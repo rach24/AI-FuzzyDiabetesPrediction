@@ -1,0 +1,2 @@
+# AI-FuzzyDiabetesPrediction
+Diabetes Risk Evaluation Engine is a fuzzy based expert system built on FuzzyJ that is designed to take certain health related parameters from the user and infer certain vital parameters and makes recommendations to the user of the system. The system is a prototype which classifies the user as underweight, normal or overweight. The system diagnoses diabetes, chances of a heart risk, recommends workout and also the stress levels.   
